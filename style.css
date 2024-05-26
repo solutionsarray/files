@@ -1,3 +1,24 @@
-.center {
-    text-align: center;
-} 
+#banner {
+	text-align: center;
+}
+#keywords h1{
+	text-align: center;
+	color: #2b8699;
+	font-size: 100px;	
+	font-weight: 900;
+}
+#keywords h2{
+	text-align: center;
+	color: grey;
+	font-size: 100px;	
+}
+#keywords h3{
+	text-align: center;
+	color: grey;
+	font-size: 50px;	
+}
+#keywords p{
+	text-align: center;
+	color: grey;
+	font-size: 30px;	
+}
