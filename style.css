@@ -1,5 +1,8 @@
-#banner {
-	text-align: center;
+body {
+    background: #fff;
+    text-align: center;
+	display: block;
+    margin: 8px;
 }
 #keywords h1{
 	text-align: center;
@@ -26,4 +29,7 @@
 	text-align: center;
 	color: grey;
 	font-size: 30px;	
+}
+#banner {
+	text-align: center;
 }
