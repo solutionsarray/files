@@ -12,10 +12,15 @@
 	color: grey;
 	font-size: 100px;	
 }
-#keywords h3{
-	text-align: center;
+#repo h1{
+	display: inline-block;
 	color: grey;
-	font-size: 50px;	
+	font-size: 150px;	
+}
+#repo h3{
+	display: inline-block;
+	color: grey;
+	font-size: 60px;	
 }
 #keywords p{
 	text-align: center;
